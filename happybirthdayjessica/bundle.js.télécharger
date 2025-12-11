@@ -26671,7 +26671,7 @@ const questions = [{
   correctIndex: 2
 }, {
   type: "answer",
-  question: "WHO IS LEVELING UP TO 13 YEARS OLD AND ALSO MORE AWESOME?",
+  question: "WHO IS LEVELING UP TO 13 YEARS OLD AND BECOMING EVEN MORE AWESOME?",
   answer: "JESSICA"
 }];
 
@@ -28901,6 +28901,7 @@ if (typeof Promise !== 'undefined' && $ReactRefreshCurrentExports$ instanceof Pr
 ;
 
 //# sourceMappingURL=bundle.js.map
+
 
 
 
